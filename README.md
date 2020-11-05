@@ -6,6 +6,8 @@
 
 * To create Tensor dataset in I created a notebook in which MRI images which are in **.nii.gz** forms is converted and pre-processed(sub-volumes and Standardization) and then saved for training.
 
+* [Pre-trained Model](https://github.com/vkmavani/3D-Brain-Tumor-Auto-Segmentation/blob/main/TumorSegmentation.pt)
+
 ### **NOTE**
   
   * Due to the lack of Computional Resources, I didn't use whole dataset.
